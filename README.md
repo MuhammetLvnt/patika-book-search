@@ -1,4 +1,4 @@
-[Uygulama Linki](ml-book-search.netlify.app)
+[Uygulama Linki](https://ml-weather-app.netlify.app)
 
 # Getting Started with Create React App
 
